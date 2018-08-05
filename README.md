@@ -78,9 +78,6 @@ You can navigate through the list by:
 
 ## Trademark Legal Notice
 
-This Awesome list is not created, developed, affiliated, supported, maintained
-or endorsed by Home Assistant.
-
 All product names, logos, brands, trademarks and registered trademarks are
 property of their respective owners. All company, product, and service names
 used in this list are for identification purposes only.
