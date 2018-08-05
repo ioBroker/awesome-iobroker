@@ -34,3 +34,61 @@ You can navigate through the list by:
 - Alternatively, use the search on our website: <https://www.awesome-iob.com>
 
 ### Content
+- [About](#about)
+- [How to Use](#how-to-use)
+    - [Content](#content)
+- [Installing](#installing)
+- [Need Help?](#need-help)
+- [User Interface](#user-interface)
+    - [vis](#screenshots-vis)
+    - [Material](#screenshots-material)
+- [DIY](#diy)
+    - [DIY Projects](#diy-projects)
+- [Online Resources](#online-resources)
+    - [Blogs](#blogs)
+    - [YouTube Channels](#youtube-channels)
+- [Uncategorized](#uncategorized)
+- [Contributing](#contributing)
+- [Trademark Legal Notice](#trademark-legal-notice)
+- [License](#license)
+
+## Installing
+
+## Need Help?
+
+## User Interface
+
+### vis
+
+### Material
+
+## DIY
+
+### DIY Projects
+
+## Online Resources
+
+### Blogs
+
+### YouTube Channels
+
+## Uncategorized
+
+## Contributing
+
+## Trademark Legal Notice
+
+This Awesome list is not created, developed, affiliated, supported, maintained
+or endorsed by Home Assistant.
+
+All product names, logos, brands, trademarks and registered trademarks are
+property of their respective owners. All company, product, and service names
+used in this list are for identification purposes only.
+
+Use of these names, logos, trademarks, and brands does not imply endorsement.
+
+## License
+
+Distributed under the Creative Commons Attribution 4.0 license.
+See [LICENSE](https://github.com/frenck/awesome-home-assistant/blob/master/LICENSE.md) for
+the complete license.
