@@ -1,7 +1,7 @@
 # Awesome ioBroker
 
 <div align="center">
-  <img width="400" src="https://www.awesome-iob.com/images/awesome-iobroker.svg" alt="Awesome ioBroker">
+  <img width="400" src="images/awesome-iobroker.svg" alt="Awesome ioBroker">
   <br>
   <a href="https://awesome-iob.com"><strong>https://awesome-iob.com</strong></a>
   <br>
