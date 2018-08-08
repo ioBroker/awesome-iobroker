@@ -124,6 +124,8 @@ You can navigate through the list by:
 - [ioBroker — открытая система автоматизации](https://www.indahomekit.ru/2018/03/26/iobroker-v-otkrtaya-sistema-avtomatizatsii/)
 - [Mit Alexa Routinen und ioBroker zu mehr Heimkino Feeling](https://meinsmarthome.blog/mit-alexa-mehr-heimkino-feeling/)
 - [ioBroker unter Docker auf der Synology-Diskstation](https://buanet.de/2017/09/iobroker-unter-docker-auf-der-synology-diskstation/)
+- [ioBroker: Integrationsplattform für das Internet der Dinge](https://www.homeandsmart.de/iobroker-integrations-plattform-iot)
+- [ioBroker mit Amazon Alexa verbinden](https://www.homeandsmart.de/iobroker-mit-alexa-verbinden)
 
 ## Offline
 - [Linux Magazin - 2017/07](http://www.linux-magazin.de/ausgaben/2017/07/io-broker/)
