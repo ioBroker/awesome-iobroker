@@ -115,7 +115,7 @@ You can navigate through the list by:
 - [ioBroker = AUTOMATION OF EVERYTHING](https://www.youtube.com/channel/UC3ltrnRF7twT9-sDXdTv3ng)
 - [Real4el - русский](https://www.youtube.com/user/Real4el)
 
-## YouTube Videos
+### YouTube Videos
 - [SMARTE ZENTRALE - ioBroker als kostenlose SmartHome-Automation](https://www.youtube.com/watch?v=ZMWy0tpjSOI)
 
 ### Online media
@@ -127,7 +127,11 @@ You can navigate through the list by:
 
 ## Offline
 - [Linux Magazin - 2017/07](http://www.linux-magazin.de/ausgaben/2017/07/io-broker/)
-- [c't -
+- [c't - 2017/18](https://www.heise.de/ct/ausgabe/2017-18-Erste-Schritte-mit-der-Smart-Home-Steuersoftware-ioBroker-3798362.html)
+- [c't Smart Home - 2017/2018](https://shop.heise.de/katalog/ct-wissen-smart-home-2017)
+- [Linux Magazin - 2018/04](http://www.linux-magazin.de/ausgaben/2018/04/io-broker/)
+- [Linux Magazine - 2018/212](http://www.linux-magazine.com/Issues/2018/212/ioBroker)
+- [c't - 2018/17](https://www.heise.de/ct/ausgabe/2018-17-Die-wichtigsten-Neuerungen-der-Smart-Home-Steuersoftware-ioBroker-4124211.html?wt_mc=print.ct.2018.17.34#zsdb-article-links)
 
 ## Uncategorized
 
