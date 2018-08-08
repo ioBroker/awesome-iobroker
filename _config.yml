@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: ioBroker Awesome List
+description: ioBroker is open source [home]-automation platform
+logo: images/awesome-iobroker.svg
+show_downloads: false
